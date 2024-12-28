@@ -1,0 +1,355 @@
+date,Home_team,score,Away_Team
+17-08-2024,Arsenal,2 - 0,Wolves
+31-08-2024,Arsenal,1 - 1,Brighton
+28-09-2024,Arsenal,4 - 2,Leicester
+05-10-2024,Arsenal,3 - 1,Southampton
+27-10-2024,Arsenal,2 - 2,Liverpool
+23-11-2024,Arsenal,3 - 0,Nott'm Forest
+04-12-2024,Arsenal,2 - 0,Man United
+14-12-2024,Arsenal,0 - 0,Everton
+24-08-2024,Aston Villa,0 - 2,Arsenal
+15-09-2024,Tottenham,0 - 1,Arsenal
+22-09-2024,Man City,2 - 2,Arsenal
+19-10-2024,Bournemouth,2 - 0,Arsenal
+02-11-2024,Newcastle,1 - 0,Arsenal
+10-11-2024,Chelsea,1 - 1,Arsenal
+30-11-2024,West Ham,2 - 5,Arsenal
+08-12-2024,Fulham,1 - 1,Arsenal
+21-12-2024,Crystal Palace,1 - 5,Arsenal
+24-08-2024,Aston Villa,0 - 2,Arsenal
+14-09-2024,Aston Villa,3 - 2,Everton
+21-09-2024,Aston Villa,3 - 1,Wolves
+06-10-2024,Aston Villa,0 - 0,Man United
+26-10-2024,Aston Villa,1 - 1,Bournemouth
+23-11-2024,Aston Villa,2 - 2,Crystal Palace
+04-12-2024,Aston Villa,3 - 1,Brentford
+07-12-2024,Aston Villa,1 - 0,Southampton
+21-12-2024,Aston Villa,2 - 1,Man City
+17-08-2024,West Ham,1 - 2,Aston Villa
+31-08-2024,Leicester,1 - 2,Aston Villa
+29-09-2024,Ipswich,2 - 2,Aston Villa
+19-10-2024,Fulham,1 - 3,Aston Villa
+03-11-2024,Tottenham,4 - 1,Aston Villa
+09-11-2024,Liverpool,2 - 0,Aston Villa
+01-12-2024,Chelsea,3 - 0,Aston Villa
+14-12-2024,Nott'm Forest,2 - 1,Aston Villa
+26-12-2024,Newcastle,3 - 0,Aston Villa
+25-08-2024,Bournemouth,1 - 1,Newcastle
+14-09-2024,Bournemouth,0 - 1,Chelsea
+30-09-2024,Bournemouth,3 - 1,Southampton
+19-10-2024,Bournemouth,2 - 0,Arsenal
+02-11-2024,Bournemouth,2 - 1,Man City
+23-11-2024,Bournemouth,1 - 2,Brighton
+05-12-2024,Bournemouth,1 - 0,Tottenham
+16-12-2024,Bournemouth,1 - 1,West Ham
+26-12-2024,Bournemouth,0 - 0,Crystal Palace
+17-08-2024,Nott'm Forest,1 - 1,Bournemouth
+31-08-2024,Everton,2 - 3,Bournemouth
+21-09-2024,Liverpool,3 - 0,Bournemouth
+05-10-2024,Leicester,1 - 0,Bournemouth
+26-10-2024,Aston Villa,1 - 1,Bournemouth
+09-11-2024,Brentford,3 - 2,Bournemouth
+30-11-2024,Wolves,2 - 4,Bournemouth
+08-12-2024,Ipswich,1 - 2,Bournemouth
+22-12-2024,Man United,0 - 3,Bournemouth
+18-08-2024,Brentford,2 - 1,Crystal Palace
+31-08-2024,Brentford,3 - 1,Southampton
+28-09-2024,Brentford,1 - 1,West Ham
+05-10-2024,Brentford,5 - 3,Wolves
+26-10-2024,Brentford,4 - 3,Ipswich
+09-11-2024,Brentford,3 - 2,Bournemouth
+30-11-2024,Brentford,4 - 1,Leicester
+07-12-2024,Brentford,4 - 2,Newcastle
+21-12-2024,Brentford,0 - 2,Nott'm Forest
+25-08-2024,Liverpool,2 - 0,Brentford
+14-09-2024,Man City,2 - 1,Brentford
+21-09-2024,Tottenham,3 - 1,Brentford
+19-10-2024,Man United,2 - 1,Brentford
+04-11-2024,Fulham,2 - 1,Brentford
+23-11-2024,Everton,0 - 0,Brentford
+04-12-2024,Aston Villa,3 - 1,Brentford
+15-12-2024,Chelsea,2 - 1,Brentford
+24-08-2024,Brighton,2 - 1,Man United
+14-09-2024,Brighton,0 - 0,Ipswich
+22-09-2024,Brighton,2 - 2,Nott'm Forest
+06-10-2024,Brighton,3 - 2,Tottenham
+26-10-2024,Brighton,2 - 2,Wolves
+09-11-2024,Brighton,2 - 1,Man City
+29-11-2024,Brighton,1 - 1,Southampton
+15-12-2024,Brighton,1 - 3,Crystal Palace
+17-08-2024,Everton,0 - 3,Brighton
+31-08-2024,Arsenal,1 - 1,Brighton
+28-09-2024,Chelsea,4 - 2,Brighton
+19-10-2024,Newcastle,0 - 1,Brighton
+02-11-2024,Liverpool,2 - 1,Brighton
+23-11-2024,Bournemouth,1 - 2,Brighton
+05-12-2024,Fulham,3 - 1,Brighton
+08-12-2024,Leicester,2 - 2,Brighton
+21-12-2024,West Ham,1 - 1,Brighton
+18-08-2024,Chelsea,0 - 2,Man City
+01-09-2024,Chelsea,1 - 1,Crystal Palace
+28-09-2024,Chelsea,4 - 2,Brighton
+06-10-2024,Chelsea,1 - 1,Nott'm Forest
+27-10-2024,Chelsea,2 - 1,Newcastle
+10-11-2024,Chelsea,1 - 1,Arsenal
+01-12-2024,Chelsea,3 - 0,Aston Villa
+15-12-2024,Chelsea,2 - 1,Brentford
+26-12-2024,Chelsea,1 - 2,Fulham
+25-08-2024,Wolves,2 - 6,Chelsea
+14-09-2024,Bournemouth,0 - 1,Chelsea
+21-09-2024,West Ham,0 - 3,Chelsea
+20-10-2024,Liverpool,2 - 1,Chelsea
+03-11-2024,Man United,1 - 1,Chelsea
+23-11-2024,Leicester,1 - 2,Chelsea
+04-12-2024,Southampton,1 - 5,Chelsea
+08-12-2024,Tottenham,3 - 4,Chelsea
+22-12-2024,Everton,0 - 0,Chelsea
+24-08-2024,Crystal Palace,0 - 2,West Ham
+14-09-2024,Crystal Palace,2 - 2,Leicester
+21-09-2024,Crystal Palace,0 - 0,Man United
+05-10-2024,Crystal Palace,0 - 1,Liverpool
+27-10-2024,Crystal Palace,1 - 0,Tottenham
+09-11-2024,Crystal Palace,0 - 2,Fulham
+30-11-2024,Crystal Palace,1 - 1,Newcastle
+07-12-2024,Crystal Palace,2 - 2,Man City
+21-12-2024,Crystal Palace,1 - 5,Arsenal
+18-08-2024,Brentford,2 - 1,Crystal Palace
+01-09-2024,Chelsea,1 - 1,Crystal Palace
+28-09-2024,Everton,2 - 1,Crystal Palace
+21-10-2024,Nott'm Forest,1 - 0,Crystal Palace
+02-11-2024,Wolves,2 - 2,Crystal Palace
+23-11-2024,Aston Villa,2 - 2,Crystal Palace
+03-12-2024,Ipswich,0 - 1,Crystal Palace
+15-12-2024,Brighton,1 - 3,Crystal Palace
+26-12-2024,Bournemouth,0 - 0,Crystal Palace
+17-08-2024,Everton,0 - 3,Brighton
+31-08-2024,Everton,2 - 3,Bournemouth
+28-09-2024,Everton,2 - 1,Crystal Palace
+05-10-2024,Everton,0 - 0,Newcastle
+26-10-2024,Everton,1 - 1,Fulham
+23-11-2024,Everton,0 - 0,Brentford
+04-12-2024,Everton,4 - 0,Wolves
+22-12-2024,Everton,0 - 0,Chelsea
+24-08-2024,Tottenham,4 - 0,Everton
+14-09-2024,Aston Villa,3 - 2,Everton
+21-09-2024,Leicester,1 - 1,Everton
+19-10-2024,Ipswich,0 - 2,Everton
+02-11-2024,Southampton,1 - 0,Everton
+09-11-2024,West Ham,0 - 0,Everton
+01-12-2024,Man United,4 - 0,Everton
+14-12-2024,Arsenal,0 - 0,Everton
+26-12-2024,Man City,1 - 1,Everton
+24-08-2024,Fulham,2 - 1,Leicester
+14-09-2024,Fulham,1 - 1,West Ham
+21-09-2024,Fulham,3 - 1,Newcastle
+19-10-2024,Fulham,1 - 3,Aston Villa
+04-11-2024,Fulham,2 - 1,Brentford
+23-11-2024,Fulham,1 - 4,Wolves
+05-12-2024,Fulham,3 - 1,Brighton
+08-12-2024,Fulham,1 - 1,Arsenal
+22-12-2024,Fulham,0 - 0,Southampton
+16-08-2024,Man United,1 - 0,Fulham
+31-08-2024,Ipswich,1 - 1,Fulham
+28-09-2024,Nott'm Forest,0 - 1,Fulham
+05-10-2024,Man City,3 - 2,Fulham
+26-10-2024,Everton,1 - 1,Fulham
+09-11-2024,Crystal Palace,0 - 2,Fulham
+01-12-2024,Tottenham,1 - 1,Fulham
+14-12-2024,Liverpool,2 - 2,Fulham
+26-12-2024,Chelsea,1 - 2,Fulham
+17-08-2024,Ipswich,0 - 2,Liverpool
+31-08-2024,Ipswich,1 - 1,Fulham
+29-09-2024,Ipswich,2 - 2,Aston Villa
+19-10-2024,Ipswich,0 - 2,Everton
+02-11-2024,Ipswich,1 - 1,Leicester
+24-11-2024,Ipswich,1 - 1,Man United
+03-12-2024,Ipswich,0 - 1,Crystal Palace
+08-12-2024,Ipswich,1 - 2,Bournemouth
+21-12-2024,Ipswich,0 - 4,Newcastle
+24-08-2024,Man City,4 - 1,Ipswich
+14-09-2024,Brighton,0 - 0,Ipswich
+21-09-2024,Southampton,1 - 1,Ipswich
+05-10-2024,West Ham,4 - 1,Ipswich
+26-10-2024,Brentford,4 - 3,Ipswich
+10-11-2024,Tottenham,1 - 2,Ipswich
+30-11-2024,Nott'm Forest,1 - 0,Ipswich
+14-12-2024,Wolves,1 - 2,Ipswich
+19-08-2024,Leicester,1 - 1,Tottenham
+31-08-2024,Leicester,1 - 2,Aston Villa
+21-09-2024,Leicester,1 - 1,Everton
+05-10-2024,Leicester,1 - 0,Bournemouth
+25-10-2024,Leicester,1 - 3,Nott'm Forest
+23-11-2024,Leicester,1 - 2,Chelsea
+03-12-2024,Leicester,3 - 1,West Ham
+08-12-2024,Leicester,2 - 2,Brighton
+22-12-2024,Leicester,0 - 3,Wolves
+24-08-2024,Fulham,2 - 1,Leicester
+14-09-2024,Crystal Palace,2 - 2,Leicester
+28-09-2024,Arsenal,4 - 2,Leicester
+19-10-2024,Southampton,2 - 3,Leicester
+02-11-2024,Ipswich,1 - 1,Leicester
+10-11-2024,Man United,3 - 0,Leicester
+30-11-2024,Brentford,4 - 1,Leicester
+14-12-2024,Newcastle,4 - 0,Leicester
+26-12-2024,Liverpool,3 - 1,Leicester
+25-08-2024,Liverpool,2 - 0,Brentford
+14-09-2024,Liverpool,0 - 1,Nott'm Forest
+21-09-2024,Liverpool,3 - 0,Bournemouth
+20-10-2024,Liverpool,2 - 1,Chelsea
+02-11-2024,Liverpool,2 - 1,Brighton
+09-11-2024,Liverpool,2 - 0,Aston Villa
+01-12-2024,Liverpool,2 - 0,Man City
+14-12-2024,Liverpool,2 - 2,Fulham
+26-12-2024,Liverpool,3 - 1,Leicester
+17-08-2024,Ipswich,0 - 2,Liverpool
+01-09-2024,Man United,0 - 3,Liverpool
+28-09-2024,Wolves,1 - 2,Liverpool
+05-10-2024,Crystal Palace,0 - 1,Liverpool
+27-10-2024,Arsenal,2 - 2,Liverpool
+24-11-2024,Southampton,2 - 3,Liverpool
+04-12-2024,Newcastle,3 - 3,Liverpool
+22-12-2024,Tottenham,3 - 6,Liverpool
+24-08-2024,Man City,4 - 1,Ipswich
+14-09-2024,Man City,2 - 1,Brentford
+22-09-2024,Man City,2 - 2,Arsenal
+05-10-2024,Man City,3 - 2,Fulham
+26-10-2024,Man City,1 - 0,Southampton
+23-11-2024,Man City,0 - 4,Tottenham
+04-12-2024,Man City,3 - 0,Nott'm Forest
+15-12-2024,Man City,1 - 2,Man United
+26-12-2024,Man City,1 - 1,Everton
+18-08-2024,Chelsea,0 - 2,Man City
+31-08-2024,West Ham,1 - 3,Man City
+28-09-2024,Newcastle,1 - 1,Man City
+20-10-2024,Wolves,1 - 2,Man City
+02-11-2024,Bournemouth,2 - 1,Man City
+09-11-2024,Brighton,2 - 1,Man City
+01-12-2024,Liverpool,2 - 0,Man City
+07-12-2024,Crystal Palace,2 - 2,Man City
+21-12-2024,Aston Villa,2 - 1,Man City
+16-08-2024,Man United,1 - 0,Fulham
+01-09-2024,Man United,0 - 3,Liverpool
+29-09-2024,Man United,0 - 3,Tottenham
+19-10-2024,Man United,2 - 1,Brentford
+03-11-2024,Man United,1 - 1,Chelsea
+10-11-2024,Man United,3 - 0,Leicester
+01-12-2024,Man United,4 - 0,Everton
+07-12-2024,Man United,2 - 3,Nott'm Forest
+22-12-2024,Man United,0 - 3,Bournemouth
+24-08-2024,Brighton,2 - 1,Man United
+14-09-2024,Southampton,0 - 3,Man United
+21-09-2024,Crystal Palace,0 - 0,Man United
+06-10-2024,Aston Villa,0 - 0,Man United
+27-10-2024,West Ham,2 - 1,Man United
+24-11-2024,Ipswich,1 - 1,Man United
+04-12-2024,Arsenal,2 - 0,Man United
+15-12-2024,Man City,1 - 2,Man United
+26-12-2024,Wolves,2 - 0,Man United
+17-08-2024,Newcastle,1 - 0,Southampton
+01-09-2024,Newcastle,2 - 1,Tottenham
+28-09-2024,Newcastle,1 - 1,Man City
+19-10-2024,Newcastle,0 - 1,Brighton
+02-11-2024,Newcastle,1 - 0,Arsenal
+25-11-2024,Newcastle,0 - 2,West Ham
+04-12-2024,Newcastle,3 - 3,Liverpool
+14-12-2024,Newcastle,4 - 0,Leicester
+26-12-2024,Newcastle,3 - 0,Aston Villa
+25-08-2024,Bournemouth,1 - 1,Newcastle
+15-09-2024,Wolves,1 - 2,Newcastle
+21-09-2024,Fulham,3 - 1,Newcastle
+05-10-2024,Everton,0 - 0,Newcastle
+27-10-2024,Chelsea,2 - 1,Newcastle
+10-11-2024,Nott'm Forest,1 - 3,Newcastle
+30-11-2024,Crystal Palace,1 - 1,Newcastle
+07-12-2024,Brentford,4 - 2,Newcastle
+21-12-2024,Ipswich,0 - 4,Newcastle
+17-08-2024,Nott'm Forest,1 - 1,Bournemouth
+31-08-2024,Nott'm Forest,1 - 1,Wolves
+28-09-2024,Nott'm Forest,0 - 1,Fulham
+21-10-2024,Nott'm Forest,1 - 0,Crystal Palace
+02-11-2024,Nott'm Forest,3 - 0,West Ham
+10-11-2024,Nott'm Forest,1 - 3,Newcastle
+30-11-2024,Nott'm Forest,1 - 0,Ipswich
+14-12-2024,Nott'm Forest,2 - 1,Aston Villa
+26-12-2024,Nott'm Forest,1 - 0,Tottenham
+24-08-2024,Southampton,0 - 1,Nott'm Forest
+14-09-2024,Liverpool,0 - 1,Nott'm Forest
+22-09-2024,Brighton,2 - 2,Nott'm Forest
+06-10-2024,Chelsea,1 - 1,Nott'm Forest
+25-10-2024,Leicester,1 - 3,Nott'm Forest
+23-11-2024,Arsenal,3 - 0,Nott'm Forest
+04-12-2024,Man City,3 - 0,Nott'm Forest
+07-12-2024,Man United,2 - 3,Nott'm Forest
+21-12-2024,Brentford,0 - 2,Nott'm Forest
+24-08-2024,Southampton,0 - 1,Nott'm Forest
+14-09-2024,Southampton,0 - 3,Man United
+21-09-2024,Southampton,1 - 1,Ipswich
+19-10-2024,Southampton,2 - 3,Leicester
+02-11-2024,Southampton,1 - 0,Everton
+24-11-2024,Southampton,2 - 3,Liverpool
+04-12-2024,Southampton,1 - 5,Chelsea
+15-12-2024,Southampton,0 - 5,Tottenham
+26-12-2024,Southampton,0 - 1,West Ham
+17-08-2024,Newcastle,1 - 0,Southampton
+31-08-2024,Brentford,3 - 1,Southampton
+30-09-2024,Bournemouth,3 - 1,Southampton
+05-10-2024,Arsenal,3 - 1,Southampton
+26-10-2024,Man City,1 - 0,Southampton
+09-11-2024,Wolves,2 - 0,Southampton
+29-11-2024,Brighton,1 - 1,Southampton
+07-12-2024,Aston Villa,1 - 0,Southampton
+22-12-2024,Fulham,0 - 0,Southampton
+24-08-2024,Tottenham,4 - 0,Everton
+15-09-2024,Tottenham,0 - 1,Arsenal
+21-09-2024,Tottenham,3 - 1,Brentford
+19-10-2024,Tottenham,4 - 1,West Ham
+03-11-2024,Tottenham,4 - 1,Aston Villa
+10-11-2024,Tottenham,1 - 2,Ipswich
+01-12-2024,Tottenham,1 - 1,Fulham
+08-12-2024,Tottenham,3 - 4,Chelsea
+22-12-2024,Tottenham,3 - 6,Liverpool
+19-08-2024,Leicester,1 - 1,Tottenham
+01-09-2024,Newcastle,2 - 1,Tottenham
+29-09-2024,Man United,0 - 3,Tottenham
+06-10-2024,Brighton,3 - 2,Tottenham
+27-10-2024,Crystal Palace,1 - 0,Tottenham
+23-11-2024,Man City,0 - 4,Tottenham
+05-12-2024,Bournemouth,1 - 0,Tottenham
+15-12-2024,Southampton,0 - 5,Tottenham
+26-12-2024,Nott'm Forest,1 - 0,Tottenham
+17-08-2024,West Ham,1 - 2,Aston Villa
+31-08-2024,West Ham,1 - 3,Man City
+21-09-2024,West Ham,0 - 3,Chelsea
+05-10-2024,West Ham,4 - 1,Ipswich
+27-10-2024,West Ham,2 - 1,Man United
+09-11-2024,West Ham,0 - 0,Everton
+30-11-2024,West Ham,2 - 5,Arsenal
+09-12-2024,West Ham,2 - 1,Wolves
+21-12-2024,West Ham,1 - 1,Brighton
+24-08-2024,Crystal Palace,0 - 2,West Ham
+14-09-2024,Fulham,1 - 1,West Ham
+28-09-2024,Brentford,1 - 1,West Ham
+19-10-2024,Tottenham,4 - 1,West Ham
+02-11-2024,Nott'm Forest,3 - 0,West Ham
+25-11-2024,Newcastle,0 - 2,West Ham
+03-12-2024,Leicester,3 - 1,West Ham
+16-12-2024,Bournemouth,1 - 1,West Ham
+26-12-2024,Southampton,0 - 1,West Ham
+25-08-2024,Wolves,2 - 6,Chelsea
+15-09-2024,Wolves,1 - 2,Newcastle
+28-09-2024,Wolves,1 - 2,Liverpool
+20-10-2024,Wolves,1 - 2,Man City
+02-11-2024,Wolves,2 - 2,Crystal Palace
+09-11-2024,Wolves,2 - 0,Southampton
+30-11-2024,Wolves,2 - 4,Bournemouth
+14-12-2024,Wolves,1 - 2,Ipswich
+26-12-2024,Wolves,2 - 0,Man United
+17-08-2024,Arsenal,2 - 0,Wolves
+31-08-2024,Nott'm Forest,1 - 1,Wolves
+21-09-2024,Aston Villa,3 - 1,Wolves
+05-10-2024,Brentford,5 - 3,Wolves
+26-10-2024,Brighton,2 - 2,Wolves
+23-11-2024,Fulham,1 - 4,Wolves
+04-12-2024,Everton,4 - 0,Wolves
+09-12-2024,West Ham,2 - 1,Wolves
+22-12-2024,Leicester,0 - 3,Wolves
